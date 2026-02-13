@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Catch My Eye",
+  "base_artist": "MISAMO",
+  "createdAt": "2026-02-13T12:17:44.424940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Catch My Eye",
+      "artist": "Danglo feat. Ivan Franco",
+      "has_synced": false,
+      "path": "select/01_Catch_My_Eye_Danglo_feat._Ivan_Franco.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Catch My Eye (feat Ivan Franco)",
+      "artist": "Danglo",
+      "has_synced": false,
+      "path": "select/02_Catch_My_Eye_(feat_Ivan_Franco)_Danglo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Catch My Eye",
+      "artist": "Danglo",
+      "has_synced": false,
+      "path": "select/03_Catch_My_Eye_Danglo.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Catch My Fall",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/04_Catch_My_Fall_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Catch My Fall",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/05_Catch_My_Fall_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Catch My Fall",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/06_Catch_My_Fall_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Catch My Fall - 1999 Digital Remaster",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/07_Catch_My_Fall_-_1999_Digital_Remaster_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Catch My Fall - Remix Fix",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/08_Catch_My_Fall_-_Remix_Fix_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Catch My Fall [Remix Fix]",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/09_Catch_My_Fall_[Remix_Fix]_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Catch My Falll",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/10_Catch_My_Falll_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Catch My Fall",
+      "artist": "Tyketto",
+      "has_synced": true,
+      "path": "select/11_Catch_My_Fall_Tyketto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Catch My Fall",
+      "artist": "U.D.O.",
+      "has_synced": false,
+      "path": "select/12_Catch_My_Fall_U.D.O..txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Catch My Heart",
+      "artist": "Warlock",
+      "has_synced": true,
+      "path": "select/13_Catch_My_Heart_Warlock.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Catch My Breath",
+      "artist": "Elise Trouw",
+      "has_synced": true,
+      "path": "select/14_Catch_My_Breath_Elise_Trouw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Catch My Drift",
+      "artist": "Jordana",
+      "has_synced": true,
+      "path": "select/15_Catch_My_Drift_Jordana.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Catch My Fall",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/16_Catch_My_Fall_Billy_Idol.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Catch My Eye",
+      "artist": "MISAMO",
+      "has_synced": false,
+      "path": "select/pl_01_Catch_My_Eye_MISAMO.txt"
+    }
+  ]
+}
